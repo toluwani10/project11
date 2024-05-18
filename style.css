@@ -1,0 +1,231 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.top{
+    width: 90%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 70px;
+}
+.second{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Open Sans";
+    font-weight: 400px;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.third{
+    margin: 30px 70px;
+}
+.part-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.write-up{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400px, 700px ;
+    line-height: 35px;
+}
+.Write-up2{
+    margin-top: 15px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.Write-up3{
+    margin-top: 20px;
+}
+input{
+    height: 33px;
+    width: 45%;
+}
+button{
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    padding: 5px 40px;
+    font-family: 'Open Sans',sans-serif;
+}
+.fourth{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+
+}
+.some{
+    margin: 30px 70px;
+}
+.part-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url(./images/bg-curve-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+    height: 100vh; 
+    margin-bottom: 20px;
+    
+
+   
+}
+.never{
+    font-family: 'Open Sans',sans-serif ;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.securely{
+    font-family: 'Open Sans' ,sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.arrow {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Open Sans' ,sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #3da08f;
+    text-decoration: none;
+    border-bottom: 1px solid hsl(170, 45%, 43%);
+    width: 37%;
+    margin-bottom: 40px;
+} 
+.stay{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400px, 700px ;
+    margin-bottom: 35px ;
+}
+.never{
+    margin-bottom: 17px;
+}
+.securely{
+    margin-bottom: 17px;
+}
+
+.pics{
+    display: flex;
+    justify-content: space-evenly;
+}
+.testimony{
+    width: 70%;
+    border: none solid;
+    background-color: white;
+    font-family: 'Open Sans' ,sans-serif;
+    font-size: 11px;
+    line-height: 19px;
+    box-shadow: 0px 0px 11px 7px  hsl(0, 0%, 75%);
+    border-radius: 3px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tester{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.burton{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 9px;
+}
+span{
+    font-family: 'Raleway',sans-serif;
+    font-size: 11px;
+    font-weight: bolder;
+}
+.early{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  hsl(238, 22%, 44%);
+    background-size: 100vw;
+    height: 30vh;
+    margin-top: -90px;
+}
+.access{
+    padding-left: 70px;
+    color: white;
+    
+}
+.today{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 400px, 700px ;
+   
+    margin-bottom: 35px ;
+}
+.support{
+    font-family: 'Open Sans' ,sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color:hsl(240, 75%, 98%);
+    font-weight: 10;
+}
+
+.started{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+  
+}
+.repair{
+    width: 50%;
+}
+.free{
+    width: 30%;
+    padding: 9px 5px;
+    margin-left: 2px;
+    margin-top: 9px;
+}
+.privacy{
+    background-color:  hsl(243, 87%, 12%);
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aqua;
+
+}
+.support{
+    color: hsl(170, 100%, 85%);
+}
+.example{
+    color: hsl(170, 45%, 43%);
+    margin-left: 65px;
+
+}
+.blog{
+    color: hsl(170, 45%, 43%);
+    padding-top: 90px;
+    
+}
+.hero{
+    margin-bottom: 10px;
+}
+.terms{
+    padding-top: 90px;
+    color: hsl(170, 45%, 43%);
+}
+.contact{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.attribution {font-size: 11px; text-align: center;}
+.attribution a {color: hsl(228, 45%, 44%);}
+
